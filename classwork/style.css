@@ -1,0 +1,92 @@
+/* .logo{
+    width: 160px;
+    cursor: pointer;
+    margin-top: -3%;
+    margin-left: -2%;
+    border-radius: 30%;
+}
+
+img{
+    height: 40px;
+    width: 50px;
+    border-radius: 50px;
+    margin-top: 20px;
+}
+li{
+    margin-top: -40px;
+    margin-right: 10px;
+    margin-left: 40px;
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+    border-radius: 50px;
+}
+h1{
+    color: aqua;
+    font-size: xx-large;
+}
+.inpum{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+#sod {
+    width: 290px;
+    height: 250px;
+}
+.profil {
+    color: aliceblue;
+    text-align: center;
+} */
+
+ul {
+    margin: 10px 20px;
+    display: flex;
+    position: absolute;
+    right: 50px;
+    top: 30px;
+    list-style: none;
+    color: yellow;
+    /* border: 2px solid wheat; */
+  }
+
+  /* .navbar {
+    display: flex;
+    background-color: black;
+    opacity: 0.7;
+    border: 2px solid wheat;
+  } */
+
+  li {
+    margin: 0 30px;
+  }
+
+  a {
+    color: rgb(244, 4, 4);
+    font-size: 20px;
+    text-decoration: none;
+  }
+  .navbar {
+    /* border: 2px solid wheat; */
+  }
+  .profil {
+    color: aqua;
+    text-align: center;
+  }
+  p{
+    color: antiquewhite;
+  }
+  img{
+    height: 250px;
+    width: 250px;
+    margin-left: 410px;
+    margin-right: 460px;
+  }
+  h2{
+    margin-top: 40px;
+  }
+  #dos{
+  text-align: left;
+  }
